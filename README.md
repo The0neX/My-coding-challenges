@@ -1,6 +1,6 @@
 <div align="center">
 
-# Daily Coding Practices
+# Daily Coding Practices  :)
 
 </div>
 
@@ -8,9 +8,9 @@
 
 ---
 
-## 📌 Sources
+## Sources
 
-Solutions, exercises, and challenges are regularly sourced from:
+Exercises and challenges are regularly sourced from:
 
 * **[freeCodeCamp](https://www.freecodecamp.org)** — Full-stack web development and algorithmic thinking.
 * **[LeetCode](https://leetcode.com)** — Data structures, algorithms, and technical interview preparation.
@@ -18,8 +18,11 @@ Solutions, exercises, and challenges are regularly sourced from:
 
 ---
 
-## 🚀 Objective
+## Main point
 
-Consistency over intensity. This space serves as a transparent log of daily progress, experimentation, and incremental improvement across different programming languages and paradigms.
+I created this to improve knowledge through review and correction. Use this codes to improve you knowledge too! 
+I always make the code cleannest as possible, so, if u find a better way to create/make one especify code,send it to my e-mail (with name of exercise pls) : arthur11maduro@gmail.com
 
-Feel free to explore the codebase, review the solutions, or reach out if you spot room for optimization.
+Feel free to explore ::)
+
+Tks 👾
