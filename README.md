@@ -1,10 +1,11 @@
 <div align="center">
 
-# Daily Coding Practices  :)
+# Coding Practices  :)
 
 </div>
 
 > A structured repository tracking daily problem-solving, algorithmic challenges, and consistent code practice.
+> I like C and Js, so, most of my practices are in one of that languages _^-^_  
 
 ---
 
