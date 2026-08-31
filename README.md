@@ -5,7 +5,7 @@
 </div>
 
 > A structured repository tracking daily problem-solving, algorithmic challenges, and consistent code practice.
-> I like C and Js, so, most of my practices are in one of that languages _^-^_  
+> \nI like C and Js, so, most of my practices are in one of that languages _^-^_  
 
 ---
 
@@ -13,9 +13,9 @@
 
 Exercises and challenges are regularly sourced from:
 
-* **[freeCodeCamp](https://www.freecodecamp.org)** — Full-stack web development and algorithmic thinking.
-* **[LeetCode](https://leetcode.com)** — Data structures, algorithms, and technical interview preparation.
-* **[Codewars](https://www.codewars.com)** — Kata practice for language proficiency and clean code principles.
+* **[freeCodeCamp](https://www.freecodecamp.org)** — This gives amazing opportunites to learn coding.
+* **[LeetCode](https://leetcode.com)** — For the most people ,this is the best site to train coding.
+* **[Codewars](https://www.codewars.com)** — For me, the best site to train coding.
 
 ---
 
