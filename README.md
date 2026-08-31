@@ -5,7 +5,7 @@
 </div>
 
 > A structured repository tracking daily problem-solving, algorithmic challenges, and consistent code practice.
-> \nI like C and Js, so, most of my practices are in one of that languages _^-^_  
+> I like C and Js, so, most of my practices are in one of that languages _^-^_  
 
 ---
 
